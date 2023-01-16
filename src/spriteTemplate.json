@@ -1,0 +1,35 @@
+{
+    "isStage": false,
+    "name": "Text Engine",
+    "variables": {},
+    "lists": {
+        "td!7STL6{O^MZI1mv:?w": [
+            "kerning",
+            []
+        ]
+    },
+    "broadcasts": {},
+    "blocks": {},
+    "comments": {},
+    "currentCostume": 0,
+    "costumes": [
+        {
+            "name": "",
+            "bitmapResolution": 1,
+            "dataFormat": "svg",
+            "assetId": "14e46ec3e2ba471c2adfe8f119052307",
+            "md5ext": "14e46ec3e2ba471c2adfe8f119052307.svg",
+            "rotationCenterX": 0,
+            "rotationCenterY": 0
+        }
+    ],
+    "sounds": [],
+    "volume": 100,
+    "visible": true,
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "direction": 90,
+    "draggable": false,
+    "rotationStyle": "all around"
+}
